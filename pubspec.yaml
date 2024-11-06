@@ -1,0 +1,30 @@
+name: skincare_store
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - asset/img/Profile.jpg
+  - asset/img/SERUM1.jpg
+  - asset/img/SERUM2.jpg
+  - asset/img/serum_pink.jpg
+  - asset/img/moiz.jpg
+  - asset/img/toner.jpg
+  - asset/img/sunscreen.jpg
+  - asset/img/masker.jpg
+  - asset/img/fashial_wash.jpg
